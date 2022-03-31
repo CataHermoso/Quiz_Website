@@ -1,0 +1,58 @@
+[
+    {
+        "question": "El Sharingan es parte del ... del Clan Uchiha",
+        "choice1": "Kekkei Mora",
+        "choice2": "Kekkei Jutsu",
+        "choice3": "Kekkei Genkai",
+        "choice4": "Kekkei Tota",
+        "answer": 3
+    },
+    {
+        "question": "¿Qué significa el termino 'Kunoichi'?",
+        "choice1": "Ninja de Konoha",
+        "choice2": "Ninja de los Kunais",
+        "choice3": "Ninja Estratégico",
+        "choice4": "Ninja Femenino",
+        "answer": 4
+    },
+    {
+        "question": "¿Qué estudio hizo este anime?",
+        "choice1": "Toei Animation",
+        "choice2": "Pierrot",
+        "choice3": "Wit Studio",
+        "choice4": "Shunkan Shonen Jump",
+        "answer": 2
+    },
+    {
+        "question": "¿Comó se llaman las novelas escritas por Jiraiya?",
+        "choice1": "'Icha Icha'",
+        "choice2": "'Técnicas ninja para expertos'",
+        "choice3": "'Hentai'",
+        "choice4": "'Ecchi'",
+        "answer": 1
+    },
+    {
+        "question": "¿Comó se llama el Justu prohibido de los Uchiha?",
+        "choice1": "Byakugan",
+        "choice2": "Izanagi",
+        "choice3": "Mangyeko Sharingan",
+        "choice4": "Sharingan",
+        "answer": 2
+    },
+    {
+        "question": "¿Quién es el creador de Naruto?",
+        "choice1": "Kohei Horikoshi",
+        "choice2": "Hiro Mashima",
+        "choice3": "Masashi Kishimoto",
+        "choice4": "Akira Toriyama",
+        "answer": 3
+    },
+    {
+        "question": "¿Qué personajes pelearon en el Valle del Fin?",
+        "choice1": "Sasuke y Naruto",
+        "choice2": "Minato y Obito",
+        "choice3": "Obito y Kakashi",
+        "choice4": "Sasuke y Orochimaru",
+        "answer": 1
+    }
+]
