@@ -1,5 +1,5 @@
 const question = document.getElementById('question');
-const choices =Array.from(document.getElementsByClassName('choice-text'));
+const choices = Array.from(document.getElementsByClassName('choice-text'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
 const progressBarFull = document.getElementById('progressBarFull');
@@ -10,9 +10,9 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let availableQuestions = []; //take questions out of this var so we never repeat them
+let availableQuestions = []; //take questions out of this var so we dont repeat them
 
-let questions = []; 
+let questions = []; // we could write here the json file with the questions to make it simpler
 
 fetch("https://opentdb.com/api.php?amount=10&category=17&difficulty=easy&type=multiple")
     .then( res => { //use the fetch ipa to go look for them in the json file
