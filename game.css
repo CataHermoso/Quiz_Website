@@ -70,6 +70,7 @@
     height: 12rem;
     animation: spin 2s linear infinite;
     justify-content: center;
+    align-items: center;
 }
 
 @keyframes spin { /*animation for it to sprin*/
