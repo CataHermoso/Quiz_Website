@@ -47,7 +47,7 @@ h3 {
     height: 45vw;
     display: flex; /* centering things with flexbox is easy. this lines turns this container into a flex box container */
     justify-content: center; /* center things horiz */
-    align-items: top; /* center things vert */
+    align-items: center; /* center things vert */
     max-width: 80rem;
     margin: auto;
     padding: 2rem;
