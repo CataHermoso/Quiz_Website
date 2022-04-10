@@ -59,7 +59,7 @@ getNewQuestion = () => { //getnewquest=funct name, ()=parameters
     if(availableQuestions.length == 0 || questionCounter >= MAX_QUESTIONS){ //so the questions stop at number 7 and gets us to the end page
         localStorage.setItem('mostRecentScore', score); //so that it saves the last score
         //GO TO THE END PAGE
-        return window.location.assign('/end.html');
+        return window.location.assign('end.html');
     }
     questionCounter++; //when we start the game its gonna be 1, and then 2...   
     progressText.innerText = ('Question ' + questionCounter + '/' + MAX_QUESTIONS); //it shows us how many question we did and how many we have left
